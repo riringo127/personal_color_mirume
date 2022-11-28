@@ -103,34 +103,6 @@
 　β版をRUNTEQ内リリース（MVP）：12/24〆切
 　本番リリース：1月/15
 
-### 画面遷移図
-Figma：https://www.figma.com/file/m3zx6nplIatJjAKiIHF1aU/mirume?node-id=0%3A1&t=pQPgWhhduarVF1he-1
+## [画面遷移図](Figma：https://www.figma.com/file/m3zx6nplIatJjAKiIHF1aU/mirume?node-id=0%3A1&t=pQPgWhhduarVF1he-1)
 
-### READMEに記載した機能
-- [x] ユーザー登録機能
-- [x] ログイン機能
-- [x] パスワード変更機能
-- [x] メールアドレス変更機能
-- [x] お試しクイズ機能（未ログインでも可）
-- [x] クイズ機能
-- [x] 復習機能（間違った問題/ブックマークした問題）
-- [x] 色一覧機能（絞り込み検索も含む）
-- [x] 運営元/お問い合わせ
-- [x] 利用規約/プライバシーポリシー
-- [x] 管理ユーザーのログイン機能
-- [x] 管理ユーザーのユーザーの検索、一覧、詳細、編集、削除
-- [x] 管理ユーザーのユイズの一覧、詳細、作成、編集、削除
-
-
-### 未ログインでも閲覧or利用できるページ
-以下の項目はちゃんと未ログインでも閲覧or利用できる画面遷移になっているか？
-- [x] お試しクイズ機能（未ログインでも可）
-
-### メールアドレス・パスワード変更確認項目
-直に変更できるものではなく、一旦メールなどを介して専用のページで変更する画面遷移になっているか？
-- [x] メールアドレス
-- [x] パスワード
-
-### 想定URL
-[こちら](https://xd.adobe.com/view/53d16b6b-bcdf-479b-4e6a-a67539af96c5-25e0/grid/)と同様にURLを記載している場合は違和感がないものになっているか？（必須ではありません）
-- [x] 特に違和感を感じなかった
+## [ER図](https://drive.google.com/file/d/1NyfA4fV1RrhItDKHMFbVvxo-WOPD_P6o/view?usp=sharing)
